@@ -7,9 +7,9 @@ layout: default
   <hr>
 
   <p>{{ content }}</p>
-  {% include share.html %}
+
   <br>
   <div>Author: <a href="/about">{{ page.author }}</a></div>
   <div>Date: {{ page.date | date: "%B %e, %Y" }}</div>
-
+  {% include share.html %}
 </div>
