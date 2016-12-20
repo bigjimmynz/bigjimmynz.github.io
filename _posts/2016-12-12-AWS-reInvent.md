@@ -38,7 +38,7 @@ Monday and Tuesday was when my booked training sessions would be happening, and 
 
 My first session was the [DevOps Certification Bootcamp](https://reinvent.awsevents.com/training/#aws-certified-devops-engineer-professional). This is designed to run you through the items required for the AWS DevOps Certification. You are given an environment running CodeDeploy, CodePipeline and with access to a code respository. As the class progresses you perform lab tasks against this environment. Deploying a new application, upgrading the application, and performing a blue/green deployment between the 2 you now have. This is an excellent insight into these services and how to use them. I expect to do more study before I take the DevOps exam, but this was a good start.
 
-<img class="image-center" width="400" src="/images/reinvent/reinvent2jpg" />
+<img class="image-center" width="500" src="/images/reinvent/reinvent2b.jpg" />
 
 Tuesdays session was the [Cloud Transformation](https://reinvent.awsevents.com/training/#secrets-to-successful-cloud-transformations) training. This is not a technical session, but more Project management or Project Lead oriented course. It was designed to run you through the process of arranging your organisation in readiness for moving your technology or I.T services to cloud providers. From organisational structure, to hiring skillsets, and identifying priorities and possible complications. I wasn't sure this would be my thing, but being a consultant now and AWS partner, this ended up being quite useful. It's likely I will end up needing to use the knowledge that came across here for future projects.
 
