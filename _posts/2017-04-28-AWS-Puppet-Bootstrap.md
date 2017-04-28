@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quick bootstrapping of puppet nodes on AWS
-date: '2016-04-28T12:00:00.000-07:00'
+date: '2017-04-28T12:00:00.000-07:00'
 author: James Morgan
 tags:
 - devops
