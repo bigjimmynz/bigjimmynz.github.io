@@ -41,7 +41,7 @@ This can actually be done in the Puppet Master. We log in to the Puppet Enterpri
 
 At this point you will see a list of classes already assigned to this group. In the "Add new class" textbox type 'pe_repo::platform', this should case an autocomplete popup to appear listing the possible classes:
 
-<center><img class="image-center" width="500" src="/images/puppet_bootstrap/image2.png" /></center>
+<center><a href="/images/puppet_bootstrap/image2.png"><img class="image-center" width="500" src="/images/puppet_bootstrap/image2.png" /></a></center>
 
 Find the entry for the OS and version you require, select it, and click "Add class". At this point the Puppet Console will ask you to confirm changes. Once they are confirmed Puppet will run through the required processes, and download the agents, storing them locally.
 
@@ -53,11 +53,11 @@ be to classified, so the server can determine what configuration manifests to ge
 We login to our Puppet Management Console and go to the Node Management - Classification section. Click "Add Group" and input the
 required details. To make it easy the Group name and Environment should match the environment name used in the UserData example further on.
 
-<center><img class="image-center" width="500" src="/images/puppet_bootstrap/image3.png" /></center>
+<center><a href="/images/puppet_bootstrap/image3.png"><img class="image-center" width="500" src="/images/puppet_bootstrap/image3.png" /></a></center>
 
 Once the group is created we click on it and start on the rules to classify nodes:
 
-<center><img class="image-center" width="500" src="/images/puppet_bootstrap/image4.png" /></center>
+<center><a href="/images/puppet_bootstrap/image4.png"><img class="image-center" width="500" src="/images/puppet_bootstrap/image4.png" /></a></center>
 
 In the rules tab, we start by typing the fact name that we want in the the Textbox below fact. In this case it is
 "agent_specified_environment" as the agent is going to tell us what it belongs to. Then we select the Operator, with standard
