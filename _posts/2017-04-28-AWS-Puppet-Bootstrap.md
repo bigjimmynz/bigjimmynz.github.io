@@ -37,7 +37,7 @@ do better than that.
 To make setup of the agent easier we can store binaries of the agent installers for any OS or OS version that we are going to need.
 This can actually be done in the Puppet Master. We log in to the Puppet Enterprise console, and go to the Classification section. There will be some pre-defined groups done by the Puppet Enterprise installation. Expand "All Nodes", then expand "PE Infrastructure". Select the item "PE Master". Now you are in the group definition, select the "classes" tab, which then should look similar to the following example:
 
-<center><img class="image-center" width="500" src="/images/puppet_bootstrap/image1.png" /></center>
+<center><img class="image-center" width="500" src="/images/puppet_bootstrap/image1.png" /></center> 
 
 At this point you will see a list of classes already assigned to this group. In the "Add new class" textbox type 'pe_repo::platform', this should case an autocomplete popup to appear listing the possible classes:
 
