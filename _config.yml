@@ -9,21 +9,21 @@ url:
 
 # Owner/author information
 owner:
-  name:           James Morgan
+  name:           Jimmy Morgan
   avatar:         me_bike2.png
-  bio:            "DevOps Technical Consultant, Snr SysAdmin. Specialising in Automation, Orchestration and DevOps with self-hosted and cloud infrastructure."
+  bio:            "Senior Cloud Architect, Technical Consultant. Specialising in Automation, Orchestration and DevOps with self-hosted and cloud infrastructure."
   email:          jimmy@drivenbydevops.io
   # Social networking links used in footer. Update and remove as you like.
   twitter: BigJimmyNZ
   facebook:
-  github: darknessnz
+  github: bigjimmynz
   stackexchange: users/6815939/james-morgan
   linkedin: james-morgan-848b0324
   instagram:
   flickr:
   tumblr:
   # google plus id, include the '+', eg +mmistakes
-  google_plus: u/0/103729939973358044945
+  google_plus:
 
 # Background image to be tiled on all pages
 background:
