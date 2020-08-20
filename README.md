@@ -1,7 +1,7 @@
 
 # DrivenByDevOps Blog
 
-This is the repo for my blog on DevOps things.
+This is the repo for my blog on Cloud Infrastructure and DevOps things.
 
 It is using github pages and jekyll to run. With a modified midnight theme and jekyll-now.
 
